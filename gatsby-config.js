@@ -38,6 +38,6 @@ module.exports = {
         },
       },
       "gatsby-plugin-theme-ui",
-      `gatsby-theme-blog-darkmode`,
+      `gatsby-theme-blog-darkmode`
     ],
   }

@@ -3,6 +3,16 @@ module.exports = {
       title: `Sidhant Mathur's Portfolio`,
       description: `Software projects and blog posts by Sidhant Mathur`,
       author: `Sidhant Mathur`,
+      menuLinks: [
+        {
+          name: `Blog`,
+          url: `/`,
+        },
+        {
+          name: `Notes`,
+          url: `/notes`,
+        },
+      ],
       social: [
         {
           name: `Twitter`,

@@ -27,5 +27,6 @@ module.exports = {
           basePath: `/notes`,
         },
       },
+      "gatsby-plugin-theme-ui"
     ],
   }

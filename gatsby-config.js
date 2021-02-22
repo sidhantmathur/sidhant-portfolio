@@ -27,6 +27,7 @@ module.exports = {
           basePath: `/notes`,
         },
       },
-      "gatsby-plugin-theme-ui"
+      "gatsby-plugin-theme-ui",
+      `gatsby-theme-blog-darkmode`,
     ],
   }
